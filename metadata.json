@@ -1,0 +1,6 @@
+{
+  "name": "PURGE",
+  "description": "Check before you trust. Real-time AI scam detection for messages, links, QR codes, job offers, and trading fraud.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
